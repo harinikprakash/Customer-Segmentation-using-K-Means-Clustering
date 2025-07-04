@@ -11,9 +11,13 @@ Kaggle: Customer Segmentation Dataset
 
 
 🛠️ Technologies & Tools:
+
 Python 🐍
+
 Pandas, NumPy
+
 Scikit-learn
+
 Matplotlib & Seaborn
 
 
