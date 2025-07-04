@@ -22,8 +22,13 @@ Matplotlib & Seaborn
 
 
 ✅ Key Features:
+
 Data loading and preprocessing
+
 Exploratory Data Analysis (EDA)
+
 Determining optimal clusters (Elbow Method)
+
 Customer segmentation using K-Means
+
 Cluster visualization and interpretation
