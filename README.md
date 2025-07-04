@@ -5,30 +5,21 @@ Completed as part of my internship at Prodigy InfoTech, this project applies K-M
 📌 Task Objective:
 Create a K-Means Clustering algorithm to group retail store customers based on their purchase history.
 
-
 📊 Dataset Used:
 Kaggle: Customer Segmentation Dataset
 
-
 🛠️ Technologies & Tools:
 
-Python 🐍
-
-Pandas, NumPy
-
-Scikit-learn
-
+Python 
+Pandas, NumPy 
+Scikit-learn 
 Matplotlib & Seaborn
 
 
 ✅ Key Features:
 
-Data loading and preprocessing
-
-Exploratory Data Analysis (EDA)
-
-Determining optimal clusters (Elbow Method)
-
-Customer segmentation using K-Means
-
-Cluster visualization and interpretation
+Data loading and preprocessing, 
+Exploratory Data Analysis (EDA), 
+Determining optimal clusters (Elbow Method), 
+Customer segmentation using K-Means, 
+Cluster visualization and interpretation.
