@@ -23,3 +23,6 @@ Exploratory Data Analysis (EDA),
 Determining optimal clusters (Elbow Method), 
 Customer segmentation using K-Means, 
 Cluster visualization and interpretation.
+
+🎯 Outcome:
+Successfully segmented customers into distinct groups based on purchasing behavior, providing meaningful insights that can help businesses in targeted marketing, customer retention, and strategic decision-making.
